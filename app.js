@@ -1,6 +1,6 @@
 var express = require('express');
 var path = require('path');
-var port = process.env.PORT || 4000;
+var port = process.env.PORT || 3000;
 var routes = require('./config/router');
 var bodyParser = require('body-parser');
 var cookieParser = require('cookie-parser');

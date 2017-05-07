@@ -30,7 +30,8 @@
 	- 使用`Moment.js`格式化时间;
 
 3. Grunt集成
-	- 集成`jshint`对js语法检查，集成`uglify`进行文本压缩，集成`less`进行`less`文件预编译
+	- 集成`jshint`对js语法检查，集成`uglify`进行文本压缩
+	- 集成`less`进行`less`文件预编译
 	- 集成`nodemon`完成服务器的自动重启
 	- 集成`mocha`完成对用户操作的单元测试
 	
